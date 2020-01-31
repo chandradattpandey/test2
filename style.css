@@ -1,0 +1,209 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:  padding-box
+}
+body {
+margin: 0;
+padding: 0
+}
+
+.home-banner{
+    background: #24BB90;
+    width:100%;
+    float:left;
+    opacity: 0.33;
+
+}
+
+
+section
+{
+  text-align: left;
+font:Segoe UI;
+display: inline-block;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.topnav {
+  overflow: hidden;
+  background-color: #004163;
+  padding-left: 250px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+}
+
+.search
+{
+  width: 200px;
+border: 2px solid #FFFFFF;
+border-radius: 43px;
+background-color: inherit;
+opacity: 1;
+text-align:center;
+font:Segoe UI;
+letter-spacing: 0;
+color:white;
+}
+
+.button {
+  background: #2095D2;
+  border-color:#2095D2 ;
+  border-radius: 4px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right:20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font: Regular 25px/33px Segoe UI;
+  font-weight: bold;
+  letter-spacing: 0;
+  opacity: 1;
+}
+
+.buttonnav {
+  border: 1px Solid #FFFFFF;
+  border-radius:5px;
+  background-color: inherit;
+text-align: left;
+padding-left: 20px;
+padding-right:20px;
+padding-top: 5px;
+padding-bottom: 5px;
+font: Regular 25px/33px Segoe UI;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.image
+{
+
+}
+
+.success{
+  text-align: left;
+font: Regular 25px/33px Segoe UI;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.sign{
+  text-align: left;
+font: Regular 25px/33px Segoe UI;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.select{
+btext-align: left;
+font: Regular 25px/33px Segoe UI;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+border-style: none;
+background-color: inherit;
+opacity: 1;
+}
+
+.main {
+float:left;
+ margin-left:80px;
+  width:50%;
+}
+.email
+{
+    margin-left:20px;
+  border-top-style:hidden;
+  border-left-style:hidden;
+  border-right-style:hidden;
+border-bottom-style:inset;
+font-size:16px;
+
+}
+.g
+{
+  margin-left:100px;
+  color:red;
+}
+
+.fb
+{
+  margin-left:100px;
+  color: blue;
+}
+
+.pass
+{
+  margin-left:20px;
+  border-top-style:hidden;
+  border-left-style:hidden;
+  border-right-style:hidden;
+border-bottom-style: inset;
+font-size:16px;
+
+}
+.forgot{
+  border-style:none;
+  color: green;
+  background-color: white;
+  margin-left: 100px;
+}
+
+.login {
+  border-radius: 10px;
+  border-style:none;
+  margin-right: 60px;
+  margin-left:20px;
+  padding-left:85px;
+  padding-right: 65px;
+  background-color:#32cbd9;
+color:white;
+
+}
+
+.register {
+  border-radius: 10px;
+  border-style:none;
+  margin-right: 60px;
+  margin-left:20px;
+  padding-left:85px;
+  padding-right: 65px;
+  background-color: white;
+color:#32cbd9;
+
+}
+
+text-block {
+  position: absolute;
+  bottom: 200px;
+  left: 50px;
+  font-size:18px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+
+.side {
+ border-radius: 5px;
+ margin-top: 20px;
+ margin-right: 140px;
+ background-color:white;
+ color: black;
+ font-size:18px;
+ padding-left: 40px;
+ padding-right: 40px;
+}
